@@ -191,7 +191,7 @@ class App extends Component {
     return (  
         <div> 
           <div className="title">
-            <p> placeholder</p>
+            <p>.</p>
           </div>
 
           {
