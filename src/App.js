@@ -191,9 +191,8 @@ class App extends Component {
     return (  
         <div> 
           <div className="title">
-            <p>.</p>
+            <p>Tic Tac Toe!</p>
           </div>
-
           {
             !this.state.isPlaying &&
             <div className="game">
